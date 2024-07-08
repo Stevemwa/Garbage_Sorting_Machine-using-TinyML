@@ -19,5 +19,7 @@ lic $ python3 classify.py /home/pi/Public/garbage_sorting-linux-armv7-v2.eim
 # pi uart permission denied error13:
 sudo usermod -a -G dialout $USER
 sudo chmod 666 /dev/ttyS0
+# Resource
+https://circuitdigest.com/microcontroller-projects/tomato-sorting-machine-using-raspberry-pi
 
 
