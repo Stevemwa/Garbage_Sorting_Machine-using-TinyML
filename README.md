@@ -21,5 +21,6 @@ sudo usermod -a -G dialout $USER
 sudo chmod 666 /dev/ttyS0
 # Resource
 https://circuitdigest.com/microcontroller-projects/tomato-sorting-machine-using-raspberry-pi
+https://github.com/edgeimpulse/linux-sdk-python/blob/master/examples/image/classify.py
 
 
