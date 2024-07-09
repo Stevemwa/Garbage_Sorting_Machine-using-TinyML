@@ -16,6 +16,11 @@ Safe, sustainable solid waste management has the potential to drive economic gro
    * Inorganic waste includes products made from natural resources such as water, fuel, metal and timber, which causes greenhouse gas emissions, particularly carbon dioxide and other pollutants.  
    * Plastic waste produces greenhouse gas emissions during every stage of its lifecycle. Plastic extraction and transportation depend on oil, gas and coal. The production and disposal of plastics release tons of carbon emissions. 
 
+## SYSTEM WORKING
+
+
+https://github.com/Stevemwa/Garbage_Sorting-using-TinyML-DEKUT-Hack-team34/assets/62056954/e411cacf-5e31-49f1-8f63-3a7a58a8c9b9
+
 ## Hardware
 * Raspberry Pi 4
 * Pi Camera Module v2
