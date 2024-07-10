@@ -19,8 +19,8 @@ Safe, sustainable solid waste management has the potential to drive economic gro
 ## SYSTEM WORKING
 
 
-https://github.com/Stevemwa/Garbage_Sorting-using-TinyML-DEKUT-Hack-team34/assets/62056954/e411cacf-5e31-49f1-8f63-3a7a58a8c9b9
-https://drive.google.com/drive/folders/12-3EcvkXgG_lS8H1xWCY7DMGgu9ITiNR?usp=sharing
+* https://github.com/Stevemwa/Garbage_Sorting-using-TinyML-DEKUT-Hack-team34/assets/62056954/e411cacf-5e31-49f1-8f63-3a7a58a8c9b9
+* https://drive.google.com/drive/folders/12-3EcvkXgG_lS8H1xWCY7DMGgu9ITiNR?usp=sharing
 
 ## Hardware
 * Raspberry Pi 4
