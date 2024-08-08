@@ -1,4 +1,4 @@
-# GARBAGE SORTING USING  TinyML :DEKUT-Hack-team34
+# GARBAGE SORTING USING  TinyML
 ## Description
 This is our DEKUT Hack repo for our garbage sorting machine, aimed at revolutionizing the recycling sector to reduce pollution and minimize dump sites, which pose health and environmental hazards, and even flight risks when located near airports. Our initiative addresses the critical issue of microplastics leaching into our environment and prevents harmful substances from polluting our surroundings.
 
